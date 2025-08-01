@@ -13,19 +13,22 @@ This internship project focuses on:
 
 It aims to demonstrate analytical thinking, data manipulation, and communication skills using Python and Jupyter Notebooks.
 
- 🗂️ Project Structure
+## 🗂️ Project Structure
 
+```
 JP-MORGAN-CHASE-VIRTUAL-INTERNSHIP-DATA-ANALYTICS/
 ├── Task-1/
-│ └── JPMC Task 1 - Data Cleaning and Preprocessing.ipynb
+│   └── JPMC Task 1 - Data Cleaning and Preprocessing.ipynb
 ├── Task-2/
-│ └── JPMC Task 2 - Exploratory Data Analysis.ipynb
+│   └── JPMC Task 2 - Exploratory Data Analysis.ipynb
 ├── Task-3/
-│ └── JPMC Task 3 - Business Recommendations and Visualizations.ipynb
+│   └── JPMC Task 3 - Business Recommendations and Visualizations.ipynb
 ├── Assets/
-│ └── Data/Graphs/Images used in tasks
+│   └── Data/Graphs/Images used in tasks
 ├── README.md
 └── LICENSE
+```
+
 
  ✅ Tasks Breakdown
 
